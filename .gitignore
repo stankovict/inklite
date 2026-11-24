@@ -1,0 +1,23 @@
+# Java / Maven
+target/
+*.class
+*.log
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Lokalni podaci i tajne
+*.mv.db
+*.trace.db
+.env
